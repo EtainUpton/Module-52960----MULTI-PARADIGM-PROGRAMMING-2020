@@ -1,0 +1,2 @@
+# Module-52960----MULTI-PARADIGM-PROGRAMMING-2020
+Etain's assignment 1 submission for module 52960 -- MULTI-PARADIGM-PROGRAMMING 2020. 
